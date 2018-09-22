@@ -3,6 +3,6 @@
   "lastName" : "Cua",
   "displayHandle" : "Kuala98",
   "posts" : ["Single", "Got a new car", "Graduated college"],
-  "age" : "20",
-  "active" : "true"
+  "age" : 20,
+  "active" : true
 }

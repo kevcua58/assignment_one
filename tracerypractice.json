@@ -1,0 +1,90 @@
+{
+	"name": [
+		"Jesse",
+		"Ally",
+		"Whitney",
+		"James",
+		"Leah",
+		"Dylan"
+	],
+	"occupation": [
+		"chef",
+		"singer",
+		"doctor",
+		"waiter",
+		"swimmer",
+		"lawyer"
+	],
+	"always": [
+		"never",
+		"barely",
+		"sometimes",
+		"usually",
+		"occasionally"
+	],
+	"expecting": [
+		"anticipating",
+		"imagining",
+		"foreseeing",
+		"awaiting",
+		"predicting"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# a #creature# in the #place#. #but.capitalize#, #name#, a #occupation# living in #city# with #number# pets, #always# found #action# very #adjective#.  "
+	],
+	"but": [
+		"however",
+		"similarly",
+		"on the other hand",
+		"meanwhile",
+		"on the contrary"
+	],
+	"creature": [
+		"ghost",
+		"zombie",
+		"dragon",
+		"vampire",
+		"demon",
+		"unicorn"
+	],
+	"place": [
+		"woods",
+		"house",
+		"library",
+		"Chinese restaurant",
+		"cemetery",
+		"mountains"
+	],
+	"action": [
+		"watching T.V.",
+		"reading",
+		"riding a bike",
+		"going to clubs",
+		"cooking",
+		"playing video games"
+	],
+	"adjective": [
+		"boring",
+		"fun",
+		"interesting",
+		"tiresome",
+		"easy",
+		"difficult"
+	],
+	"city": [
+		"New York City",
+		"Miami",
+		"Los Angeles",
+		"Chicago",
+		"Atlanta",
+		"Houston"
+	],
+	"number": [
+		"no",
+		"six",
+		"two",
+		"three",
+		"four",
+		"five"
+	]
+}
